@@ -1,3 +1,3 @@
 # GUI-Dice-Roller-Code
 
-Golang used
+Golang used for this project
